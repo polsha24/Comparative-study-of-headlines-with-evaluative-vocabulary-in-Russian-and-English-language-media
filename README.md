@@ -1,4 +1,4 @@
-# Comparative-study-of-headlines-with-evaluative-vocabulary-in-Russian-and-English-language-media
+# Comparative study of headlines with evaluative vocabulary in Russian and English language media
 
 Тема (рус.): Сопоставительное исследование заголовков с оценочной лексикой в русскоязычных и англоязычных медиа
 Тема (англ.): Comparative study of headlines with evaluative vocabulary in Russian and English language media
